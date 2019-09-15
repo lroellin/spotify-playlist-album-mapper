@@ -1,0 +1,9 @@
+{
+  "author": "Spotify Playlist Album Mapper",
+  "name": "spotify-playlist-album-mapper",
+  "description": "Map Spotify playlists to their albums",
+  "version": "0.0.1",
+  "dependencies": {
+    "spotify-web-api-node": "^4.0.0"
+  }
+}
